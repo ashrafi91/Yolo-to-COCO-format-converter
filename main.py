@@ -20,8 +20,13 @@ import imagesize
 YOLO_DARKNET_SUB_DIR = "YOLO_darknet"
 
 classes = [
-    "matricula",
-    "cara"
+    "hand",
+    "conical beaker",
+    "erlenmeyer flask",
+    "reagent bottle",
+    "pipette",
+    "eggplant shaped flask",
+    "separatory funnel"
 ]
 
 

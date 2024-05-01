@@ -225,7 +225,7 @@ def get_args():
 
 def main(opt):
     output_name = opt.output
-    output_path = "output/" + output_name
+    output_path = "/content/CE/Chemical Apparatus Image Dataset/" + output_name
 
     print("Start!")
 
